@@ -12,4 +12,6 @@ h1 {
     height: 100vh;
     width: 100%;
     background-color: bisque;
+    margin: auto;
+    text-align: center;
 }
